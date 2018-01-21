@@ -7,3 +7,5 @@
 # Unignore all dirs
 !*/
 
+# Ignore .hex files
+*.hex
